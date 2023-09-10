@@ -1,4 +1,4 @@
-### Sinav Simülatörü
+### Sınav Simülatörü
    Bilgisayar Mühendisliği okurken ilk projemi sizlerle paylaşmak istedim.
 Projem maksimum 100 öğrenci için hazırlanmış bir sınav simülatörüdür. Bu çalışmamda
 öğrenci sayısını, soru sayısını, öğrencinin boş bırakma ve doğru cevaplama ihtimalini
